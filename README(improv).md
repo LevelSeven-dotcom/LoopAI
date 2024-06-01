@@ -16,15 +16,10 @@ LoopAI is an AI-powered web application firewall designed to enhance web server 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Akashkampili1/loopAi.git
    cd loopAi
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
